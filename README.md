@@ -1,1 +1,1 @@
-The R studios file is the one called Advanced Bioinformatics 2019 Assignment
+Please us the .md document to see both the code and the results
