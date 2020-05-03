@@ -2,7 +2,9 @@
 title: "Advanced Bioinformatics 2019 Assignment"
 author: "p1405792"
 date: "03/05/2020"
-output: html_document
+output:
+  pdf_document: default
+  html_document: default
 ---
 
 Task 1
