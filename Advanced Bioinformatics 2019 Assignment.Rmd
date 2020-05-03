@@ -3,7 +3,7 @@ title: "Advanced Bioinformatics 2019 Assignment"
 author: "p1405792"
 date: "03/05/2020"
 output:
-  pdf_document: default
+  github_document: default
   html_document: default
 ---
 
